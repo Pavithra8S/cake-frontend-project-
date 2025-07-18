@@ -25,6 +25,12 @@ A simple front-end clone of a wedding cake shop website built using HTML and CSS
 - `.gitignore` – Ignore system files
 
 ## 📸 Screenshots
+![image alt](https://github.com/Pavithra8S/cake-frontend-project-/blob/main/assets/cakes2.png?raw=true)
+
+
+
+![image alt](https://github.com/Pavithra8S/cake-frontend-project-/blob/main/assets/cakes1.png?raw=true)
+
 
 
 
